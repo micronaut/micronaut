@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/ericdanowski"><img src="https://api.daily.dev/devcards/f86fd47fb3a8486fbc416c4ff02e5a45.png?r=92y" width="400" alt="Eric Danowski's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/micronaut/micronaut/blob/master/devcard.svg" width="400" alt="Eric Danowski's Dev Card"/></a>
 <!--
 **micronaut/micronaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
